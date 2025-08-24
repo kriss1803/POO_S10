@@ -1,0 +1,2 @@
+123,Computador I5,100,850.0
+789,Mouse GENIUS WIRELESS,50,10.0
